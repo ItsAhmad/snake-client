@@ -4,7 +4,7 @@ const net = require("net");
 // establishes a connection with the game server
 const connect = function () {
   const conn = net.createConnection({
-    host: '192.168.0.99',
+    host: '172.20.10.2',
     port: 50541
   });
 
@@ -15,6 +15,11 @@ const connect = function () {
     console.log("Server says:", data);
   });
 
+  conn.on("connect", () => {
+    console.log("Connection to server established");
+
+    conn.write("Name: ABA");
+  });
 
   return conn;
 };
