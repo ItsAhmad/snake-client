@@ -1,1 +1,1 @@
-# snake-client
+# profile_generator
