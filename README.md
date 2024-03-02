@@ -1,12 +1,14 @@
 # Snake Client Project
 
-Snake game is a very popular video game. It is a video game concept where the player maneuvers a dot and grows it by ‘eating’ pieces of food. As it moves and eats, it grows and the growing snake becomes an obstacle to smooth maneuvers. The goal is to grow it to become as big as possible without bumping into the side walls, or bumping into itself, upon which it dies.
+Snake is a popular video game that I discovered on my cousin's Nokia phone in 2008. Since its creation in 1997, it has taken on multiple forms. 
 
-This is simply a multiplayer take on the genre.
+This is a barebones version of the game, with some multiplayer features added. 
 
-Before you can run this client, you will need to be running the server side which you can download and install from here. 
+Before you can run this client, you will need to be running the server side which you can download and install from [here.](https://github.com/lighthouse-labs/snek-multiplayer) 
 
-This project takes credit from the work of Tania Rascia.
+## Credits 
+
+This project takes credit from the work of Tania Rascia, which can be found [here](https://github.com/taniarascia/snek). 
 
 
 ## Getting Started
