@@ -41,9 +41,9 @@ This project takes credit from the work of Tania Rascia, which can be found [her
 
 
 ## Author 
-- [Ahmad Ameen] (https://www.linkedin.com/in/ahmadameenab/) 
+- [Ahmad Ameen](https://www.linkedin.com/in/ahmadameenab/) 
 
 ## Purpose 
-This game was created as part of the curriculum for [Lighthouse Lab's Web Development Flex Program.] (https://www.lighthouselabs.ca/en/web-development) 
+This game was created as part of the curriculum for [Lighthouse Lab's Web Development Flex Program.](https://www.lighthouselabs.ca/en/web-development) 
 
  
