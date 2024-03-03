@@ -20,7 +20,9 @@ This project takes credit from the work of Tania Rascia, which can be found [her
 - Follow steps [inside the snek server repo](https://github.com/lighthouse-labs/snek-multiplayer) to run the server side
 - Clone the snake client, and run using the following commands. 
 ```
-
+git clone https://github.com/ItsAhmad/snake-client.git
+cd snake-client
+node play.js
 
 ```
 
@@ -32,9 +34,9 @@ This project takes credit from the work of Tania Rascia, which can be found [her
 
 
 ## Controls 
-- `W` `A` `S` `D` - Movemnet 
--
--
+- `W` `A` `S` `D` - Movement
+- 
+- 
 - `Ctrl` + `C `- EXIT GAME 
 
 
