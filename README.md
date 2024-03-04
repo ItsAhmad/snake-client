@@ -35,8 +35,8 @@ node play.js
 
 ## Controls 
 - `W` `A` `S` `D` - Movement
-- 
-- 
+- `1` - "I'm gonna win!"
+- `2` - "I gotta catch up!"
 - `Ctrl` + `C `- EXIT GAME 
 
 
