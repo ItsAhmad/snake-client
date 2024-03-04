@@ -12,7 +12,7 @@ This project takes credit from the work of Tania Rascia, which can be found [her
 
 ## Screenshot
 
-![Screenshot of the snake game on client side] (
+![Screenshot of the snake game on client side](https://imgur.com/a/RJa6szu) 
 
 
 ## Getting Started
