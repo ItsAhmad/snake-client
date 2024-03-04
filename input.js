@@ -22,6 +22,12 @@ const handleUserInput = function(key) {
     connection.write("Move: right");
     console.log("Move: right");
   }
+  if (key === '1') {
+    connection.write("Say: I'm gonna win!");
+  }
+  if (key === '2') {
+    connection.write("Say: I gotta catch up!");
+  }
 };
 
 const setupInput = (conn) => {
@@ -35,3 +41,4 @@ const setupInput = (conn) => {
 };
 
 module.exports = { setupInput, handleUserInput };
+
