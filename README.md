@@ -23,7 +23,6 @@ This project takes credit from the work of Tania Rascia, which can be found [her
 git clone https://github.com/ItsAhmad/snake-client.git
 cd snake-client
 node play.js
-
 ```
 
 
